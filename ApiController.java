@@ -1,4 +1,4 @@
-#APIController
+#ApiController
 
 package com.example.demo.controller;
 
